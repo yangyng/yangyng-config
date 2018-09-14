@@ -94,6 +94,8 @@ mybatis-plus:
 #    map-underscore-to-camel-case: true
 #    cache-enabled: false
 
+test:
+  msg: 这是一条测试消息
 
 
 
