@@ -74,6 +74,7 @@ mybatis-plus:
     db-config:
       column-like: false
       id-type: id_worker
+
 #      logic-delete-value: 1
 #      logic-not-delete-value: 0
 #  global-config:
