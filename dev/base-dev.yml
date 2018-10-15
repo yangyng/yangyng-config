@@ -71,10 +71,10 @@ mybatis-plus:
   #实体扫描，多个package用逗号或者分号隔离
   typeAliasesPackage: com.yangy.**.entity
   refresh: true
-#    db-config:
+     db-config:
+     db-type: MYSQL
 #      column-like: false
 #      id-type: id_worker
-
 #      logic-delete-value: 1
 #      logic-not-delete-value: 0
 #  global-config:
